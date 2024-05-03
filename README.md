@@ -1,5 +1,5 @@
 Hi, I’m @jclxbn
-- 🌱 I’m currently learning Kotlin
+- 🌱 Who knows what I'm doing
 
 <!---
 jclxbn/jclxbn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
